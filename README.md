@@ -26,6 +26,8 @@ to reach an acceptable level as soon as possible. And I have many other ideas to
 + Automated search over the LAN for the robot
 + and many more...
 
+![gui](https://user-images.githubusercontent.com/79312187/215334141-7f27ade3-302e-4930-9aee-019a3faca2bd.png)
+
 ![PXL_20221028_130952616](https://user-images.githubusercontent.com/79312187/215333554-42b040a9-3e83-48e1-b762-74e65560d03b.png)
 
 ![PXL_20221028_131031536](https://user-images.githubusercontent.com/79312187/215333565-92723583-5222-41ff-9fbc-8b2ce134e130.png)
