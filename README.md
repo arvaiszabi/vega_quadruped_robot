@@ -1,15 +1,15 @@
 # Vega Quadruped Robot
 ![vega_logo](https://user-images.githubusercontent.com/79312187/215331109-e8b1cbe2-d980-4bfb-af8b-75623a9cdf5e.png)
 
-<p align="justify"> VEGA is a quadruped robot dog, being developed on my own and inspired by Boston Dynamics achivements and Youtube hobby projects.
+<p align="justify"> VEGA is a quadruped robot dog, being developed on my own and inspired by Boston Dynamics achievements and Youtube hobby projects.
 The parts are entirely designed in FreeCAD, except the servo arms, which are bought from a model shop. I have tried to make my best
 and use as much newer technologies (especially ML) as I can. The kinematics model is implemented by me after I have researched deep
-into trigonometrics. This device is utilizing az Arduino Pro Mini for executing movements and sense distance of obstuctions, charge
+into trigonometrics. This device is utilizing an Arduino Pro Mini for executing movements and sense distance of obstuctions, charge
 level of battery pack. Features an FHD camera connected to a Raspberry Pi Zero 2W board. This board acts as a server one to which the
-controller program - running on a PC or laptop - can connect on LAN. The Arduino and Raspberry board can communicate each other
+controller program - running on a PC or laptop - can connect over LAN. The Arduino and Raspberry board can communicate each other
 via serial port. I have made a hybrid machine learning model in order to the user can instruct the robot with different (9) hand
-gestures. This option needs a laptop of course. The movements are not the best yet, but I will further correct the Arduino's firmware 
-to reach an acceptable level as soon as possible. And I have many other ideas to bring into effect too.</p>
+gestures. This option needs a camera connected to the machine running GUI of course. The movements are not the best yet, but I will 
+further develop the Arduino's firmware to reach an acceptable level as soon as possible. And I have many other ideas to bring into effect too.</p>
 
 > ## Key parts
 + Raspberry Pi Zero 2W
